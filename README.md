@@ -1,13 +1,6 @@
-# IrisDetectionModel
-This is a supervised machine learning model that can learn from the measurements of irises whose species is known, and can predict the species for a new iris.
-
-# References
-
-Müller, A.C., & Guido, S. "Introduction to Machine Learning with Python" (Book Reference)
-
 # Iris Dataset Analysis
 
-This repository contains Python code that explores and analyzes the Iris dataset using machine learning techniques.
+This repository contains Python code for a supervised machine learning model that learns from the measurements of irises with known species and predicts the species for new irises.
 
 ## Overview
 
@@ -29,10 +22,20 @@ The code in this repository performs the following tasks:
 
 6. Evaluates the performance of the model on the test set, computing the accuracy score.
 
+# References
+
+Müller, A.C., & Guido, S. "Introduction to Machine Learning with Python" (Book Reference)
+
 ## Usage
 
 To run the code, make sure you have Python and the required libraries installed. You can install the necessary libraries using pip:
 
 ```bash
 pip install scikit-learn numpy pandas matplotlib
+
+
+
+
+
+
 
