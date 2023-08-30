@@ -1,6 +1,6 @@
 # Iris Dataset Analysis
 
-This repository contains Python code for a supervised machine learning model that learns from the measurements of irises with known species and predicts the species for new irises.
+This repository contains Python code for a supervised machine learning model using K-Nearest Neighbors (KNN) that learns from the measurements of irises with known species and predicts the species for new irises.
 
 ## Overview
 
