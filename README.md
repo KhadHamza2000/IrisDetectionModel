@@ -5,9 +5,6 @@ This is a supervised machine learning model that can learn from the measurements
 
 Müller, A.C., & Guido, S. "Introduction to Machine Learning with Python" (Book Reference)
 
-================
-# **Explanation**
-
 # Iris Dataset Analysis
 
 This repository contains Python code that explores and analyzes the Iris dataset using machine learning techniques.
